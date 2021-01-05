@@ -19,7 +19,7 @@ Want to contribute? Great! To fix a bug or enhance an existing module, follow th
 * Create a Pull Request
 ### Technologies Used
 * HTML and CSS
-* VSCode, Sweet Vscode, Brackets any Text Editor
+* VSCode, 
 * TerminalCLI(Command Line Interface)
 ### License
 *MIT License
