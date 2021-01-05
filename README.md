@@ -5,8 +5,8 @@ An about me portfolio describing my line of expertise as a web developer.
 Basic information about me to potential customers and employers, including an installed version of Git.
 ### Setup/Installation Requirements
 * Clone Repository on Local Machine (live link to project)
-* cd into Directory cd media-query-practice
-* Open the media.html on the browser
+* cd into Directory 
+* Open the portfolio.html on the browser
 ### Known Bugs
 Want to contribute? Great! To fix a bug or enhance an existing module, follow these steps:
 
