@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(2, 1, 1);
+    
+}
+
+/* .flex{
+    width: 100%;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    flex-direction: column;
+} */
+
+.container-nav{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: black;
+    /* margin-left: 15%; */
+}
+.container-nav>a{
+    color:beige;
+    text-decoration: none;
+    padding-top: 5px;
+    font-size: 2em;
+    font-family: rufina;
+}
+.container-nav>a:hover{
+    color: rgb(182, 172, 172);
+}
+
+#photo{
+    background-image: url(./Images/pexels-burst-374857.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.About{
+       max-width: 500px;  
+    text-align: center;
+    display: flex;
+    width: 100%; 
+
+}
+.About>p{
+    font-size: larger;
+    font-family: rufina;
+    font-style: oblique;
+    margin-left: 30%;
+    margin-top: 20%;
+    /* align-items: flex-end; */
+    color: beige;
+    
+}
+.About>img{
+    border-radius: 10pc;
+    margin-left: 20%;
+    margin-top: 20%;
+    
+}
+/* h2{
+    margin-top: 40%; */
+/* } */
+.Projects{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: rufina;
+    margin-left: 5%;
+    color: white;
+    margin-top: 1%;
+    
+}
+h2{
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 3em;
+    margin-top: 7%;
+    font-family: rufina;
+    color: rgb(255, 253, 253);
+    /* background-color: black; */
+    text-align: center;
+}
+
+#skills{
+    background-image: url(./Images/pexels-burst-374857.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+
+a{
+    color: beige;
+}
+
+.footer{
+    /* background-image: url(./Images/pexels-burst-374857.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+    background-color: black;
+    color: beige;
+}
